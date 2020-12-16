@@ -1,4 +1,4 @@
-<div align =center"><img src="image0.jpg" width="350"></div>
+<div align ="center"><img src="image0.jpg" width="350"></div>
                                                      
 ## About Me
 Hi! My name's Jack Ayvazian and I'm a student studying Computer Science at Worcestor Polytechnic Institute (WPI)
