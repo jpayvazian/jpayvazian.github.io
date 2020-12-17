@@ -17,5 +17,5 @@ You can find a video demo for this project [here](https://youtu.be/Laqw_whi3tk)!
 <embed src="Resume wpi.pdf" type="application/pdf" width="100%" height="850px" />
 
 ## Contact info
-Email: [Jpayvazian@wpi.edu](mailto:jpayvazian@wpi.edu)
-LinkedIn: [Jack Ayvazian](https://www.linkedin.com/in/jack-ayvazian-66b281202/)
+#### Email: [Jpayvazian@wpi.edu](mailto:jpayvazian@wpi.edu)
+#### LinkedIn: [Jack Ayvazian](https://www.linkedin.com/in/jack-ayvazian-66b281202/)
