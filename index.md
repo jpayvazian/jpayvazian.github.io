@@ -1,4 +1,4 @@
-<div align ="center"><img src="image0.jpg" width="350"></div>
+<div align ="center"><img src="image0.jpg" width="350px"></div>
                                                      
 ## About Me
 Hi! My name's Jack Ayvazian and I'm a student studying Computer Science at Worcestor Polytechnic Institute (WPI).
@@ -14,7 +14,7 @@ Amazon Web Services (AWS) was used to host the application.
 You can find a video demo for this project [here](https://youtu.be/Laqw_whi3tk)!
 
 ## Résumé
-<embed src="Resume wpi.pdf" type="application/pdf"/>
+<embed src="Resume wpi.pdf" type="application/pdf" width="100%" height="850px" />
 
 ## Contact info
 Email: `jpayvazian@wpi.edu`
