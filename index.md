@@ -3,7 +3,7 @@
 ## About Me
 Hi! My name's Jack Ayvazian and I'm a student studying Computer Science at Worcestor Polytechnic Institute (WPI).
 I'm interested in Software Engineering and looking for summer internships!
-Besides programming, I enjoy things like soccer, basketball, videogames, and music
+Besides programming, I enjoy things like soccer, basketball, videogames, and music.
 
 ## Project/Work experience
 ### Software Engineering Final Project
