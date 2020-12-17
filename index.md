@@ -6,15 +6,15 @@ I'm interested in Software Engineering and looking for summer internships!
 Besides programming, I enjoy things like soccer, basketball, videogames, and music
 
 ## Project/Work experience
-### Software Engineering final project
+### Software Engineering Final Project
 For this group project, we designed a web-based application to help teams decide among alternatives for a proposed event.
-In our group of 3, my role was mainly developing the back-end Java code and managing the SQL database.
+In our group of 3, my role was mainly developing the back-end Java code and managing the SQL database and API.
 Amazon Web Services (AWS) was used to host the application.
 
-You can find a video demo for this project [here]()!
+You can find a video demo for this project [here](https://youtu.be/Laqw_whi3tk)!
 
 ## Résumé
-
+<embed src="Resume wpi.pdf" type="application/pdf"/>
 
 ## Contact info
 Email: `jpayvazian@wpi.edu`
