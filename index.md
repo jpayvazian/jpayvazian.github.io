@@ -19,7 +19,7 @@ You can find a video demo for this project [here](https://youtu.be/Laqw_whi3tk)!
 <br>
 The source code for these projects can also be found in my [github repositories](https://github.com/jpayvazian?tab=repositories).
 ### “Game of Life” 
-For this Operating Systems project, I recreated a distributed version of John Conway’s Game of Life in C++ where multiple threads were implemented to carry out each generation of the game. Semaphores were also used as a synchronization mailbox system between threads to allow each thread to signal when the assigned board cells were finished computing.
+For this Operating Systems project, I recreated a distributed version of John Conway’s Game of Life in C++. Multiple threads were implemented to carry out each generation of the game in a divide-and-conquer fashion. Semaphores were also used as a synchronization mailbox system between threads to allow each thread to signal when their assigned cells were finished computing.
 
 ### “Verifying Munitions” Interactive Qualifying Project (IQP)
 This interdisciplinary project was with a team of 5 students and UK sponsors from the disarmament organization SCRAP. My primary role was revamping a Global Weapons Tracking website in WordPress and HTML/CSS, while adding mobile-friendly support. We also used Python to create an interactive map on large weapon stockpiles to advocate global transparency.
