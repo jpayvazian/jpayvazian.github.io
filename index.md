@@ -21,8 +21,8 @@ The source code for these projects can also be found in my [github repositories]
 ### “Game of Life” 
 For this Operating Systems project, I recreated a distributed version of John Conway’s Game of Life in C++. Multiple threads were implemented to carry out each generation of the game in a divide-and-conquer fashion. Semaphores were also used as a synchronization mailbox system between threads to allow each thread to signal when their assigned cells were finished computing.
 
-### “Verifying Munitions” Interactive Qualifying Project (IQP)
-This interdisciplinary project was with a team of 5 students and UK sponsors from the disarmament organization SCRAP. My primary role was revamping a Global Weapons Tracking website in WordPress and HTML/CSS, while adding mobile-friendly support. We also used Python to create an interactive map on large weapon stockpiles to advocate global transparency.
+### “Tracking Munitions” Interactive Qualifying Project (IQP)
+This interdisciplinary project was with a team of 5 students and sponsored by UK disarmament organization SCRAP. My primary role was making the Global Weapons Tracking website responsive to mobile devices using WordPress and HTML/CSS. We also used Python to create interactive maps displaying data on large weapon imports, exports, stockpiles, and transparency indicators to advocate global transparency and accountability.
 
 ## Work Experience
 ### Student Teaching Assistant
