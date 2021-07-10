@@ -22,7 +22,7 @@ The source code for these projects can also be found in my [github repositories]
 For this Operating Systems project, I recreated a distributed version of John Conway’s Game of Life in C++. Multiple threads were implemented to carry out each generation of the game in a divide-and-conquer fashion. Semaphores were also used as a synchronization mailbox system between threads to allow each thread to signal when their assigned cells were finished computing.
 
 ### “Tracking Munitions” Interactive Qualifying Project (IQP)
-This interdisciplinary project was with a team of 5 students and sponsored by UK disarmament organization SCRAP. My primary role was making the Global Weapons Tracking website responsive to mobile devices using WordPress and HTML/CSS. We also used Python to create interactive maps displaying data on large weapon imports, exports, stockpiles, and transparency indicators to advocate global transparency and accountability.
+This interdisciplinary project aiming to advocate weapons transparency and accountability was with a team of 5 students and sponsored by UK disarmament organization SCRAP. My primary role was making the Global Weapons Tracking website responsive to mobile devices using WordPress and HTML/CSS. We also used Python to create interactive maps displaying data on large weapon imports, exports, stockpiles, and transparency indicators. The imports and exports data was fetched using the *sipri* library, and *plotly* was used to create the choropleth maps. The code can be found [here](https://github.com/jpayvazian/Global_Weapons_Tracking_Map).
 
 ## Work Experience
 ### Student Teaching Assistant
